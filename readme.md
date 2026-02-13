@@ -83,3 +83,10 @@ This script loads `img_features.csv` and visualizes extracted image features.
 - `venv/` and `images/` are ignored via `.gitignore`.
 - The `images/` directory is generated automatically when running `scraper.py`. (Creating it manually is redundant as it will be overwritten)
 - Always activate the virtual environment before running the scripts.
+
+---
+
+## Contributors
+
+- Capistaincap 
+- Cometcoder192 (for initial setup)
